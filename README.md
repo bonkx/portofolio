@@ -129,13 +129,8 @@ solutions.
 
 ## Screenshots
 
-<img src="pmi/login.png" alt="PMI Login" width="300">
-<img src="pmi/home.png" alt="PMI Home" width="300">
-<img src="pmi/digital_id.png" alt="PMI Digital ID" width="300">
-
-<img src="pmi/sos.png" alt="PMI SOS" width="300">
-<img src="pmi/news.png" alt="PMI News" width="300">
-<img src="pmi/profile.png" alt="PMI Profile" width="300">
+<img src="pmi/pmi_mobile.jpg" alt="PMI 1">
+<img src="pmi/pmi_mobile2.jpg" alt="PMI 2">
 
 ---
 
@@ -167,15 +162,11 @@ solutions.
 
 ### Buma Driver
 
-<img src="truku/buma_driver_login.png" alt="Buma Driver Login" width="300">
-<img src="truku/buma_driver_home.png" alt="Buma Driver Home" width="300">
-<img src="truku/buma_driver_reservation.png" alt="Buma Driver Reservation" width="300">
+<img src="truku/buma_portofolio_1.jpg" alt="Buma Driver">
 
 ### Buma Smart Fleet
 
-<img src="truku/buma_customer_home.png" alt="Buma Customer Home" width="300">
-<img src="truku/buma_customer_scan.png" alt="Buma Customer Scan" width="300">
-<img src="truku/buma_customer_address.png" alt="Buma Customer Address" width="300">
+<img src="truku/buma_portofolio_2.jpg" alt="Buma Customer">
 
 ## Feedback
 
