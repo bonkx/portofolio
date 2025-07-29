@@ -116,9 +116,7 @@ solutions.
 
 ### Truku
 
-<img src="truku/truku_driver.jpg" alt="Truku Driver" width="120">
-<img src="truku/truku_customer.jpg" alt="Truku Customer" width="120">
-<img src="truku/truku_transporter.jpg" alt="Truku Transporter" width="120">
+<img src="truku/truku_portofolio.jpg" alt="Truku Portofolio">
 
 ---
 
