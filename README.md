@@ -85,12 +85,12 @@ solutions.
 
 ### Puskeu POLRI
 
-<img src="puskeu/dashboard.jpg" alt="Dashboard" width="962">  
-<img src="puskeu/usrm.png" alt="USRM" width="480">  
-<img src="puskeu/sdm.png" alt="SDM" width="480">
-<img src="puskeu/jitu.png" alt="JITU" width="480">
-<img src="puskeu/dipa.png" alt="DIPA" width="480">
-<img src="puskeu/jitu_mobile.jpg" alt="Akurat Mobile" width="962">
+<img src="puskeu/dashboard.jpg" alt="Dashboard" width="842">  
+<img src="puskeu/usrm.png" alt="USRM" width="420">  
+<img src="puskeu/sdm.png" alt="SDM" width="420">
+<img src="puskeu/jitu.png" alt="JITU" width="420">
+<img src="puskeu/dipa.png" alt="DIPA" width="420">
+<img src="puskeu/jitu_mobile.jpg" alt="Akurat Mobile" width="842">
 
 ---
 
@@ -116,9 +116,9 @@ solutions.
 
 ### Truku
 
-<img src="truku/truku_driver.jpg" alt="Truku Driver" width="240">
-<img src="truku/truku_customer.jpg" alt="Truku Customer" width="240">
-<img src="truku/truku_transporter.jpg" alt="Truku Transporter" width="240">
+<img src="truku/truku_driver.jpg" alt="Truku Driver" width="200">
+<img src="truku/truku_customer.jpg" alt="Truku Customer" width="200">
+<img src="truku/truku_transporter.jpg" alt="Truku Transporter" width="200">
 
 ---
 
